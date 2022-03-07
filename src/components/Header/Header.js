@@ -125,7 +125,7 @@ const Header = () => {
                                     <a className="btn ml-lg-auto btn-bordered-white" style={{color:'#fff'}}><i className="icon-wallet mr-md-2" />...{state.showWallet}</a>
                                 
                                     <ul className="dropdown-menu">
-                                        <li className="nav-item "><a href=""onClick={handleChangeWallet} className="nav-link">Change Wallet?</a></li>
+                                        <li className="nav-item "><a href=""onClick={handleChangeWallet} className="nav-link">Disconnect?</a></li>
                                     </ul>
                                 </li> 
                               
