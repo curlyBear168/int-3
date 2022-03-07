@@ -521,7 +521,7 @@ function App() {
                 color: "var(--accent-text)",
               }}
             >
-Jack, the Project Manager of Bored Valentines Club, has over 10 years of experience in game development and project management.          </s.TextTitle>            
+Jake, the Project Manager of Bored Valentines Club, has over 10 years of experience in game development and project management.          </s.TextTitle>            
             </s.TextTitle>  
         </s.Container> 
         <s.SpacerXSmall/>          
