@@ -355,12 +355,12 @@ function App() {
 
                         </tr>
                         <tr>
-                        <td>Q1, 2022</td>
+                        <td>Q1 2022</td>
                         <td>Pre-Mint for Whitelist-ed</td>
 
                         </tr>
                         <tr>
-                        <td>Q1, 2022</td>
+                        <td>Q1 2022</td>
                         <td>PUBLIC MINT</td>
                         </tr>
                         <tr>
