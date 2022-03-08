@@ -44,7 +44,7 @@ const Header = () => {
     
     const handlingForNoMetaMask= ()=> {
         if (isMobile) {
-            window.open('https://metamask.app.link/dapp/dev.zdna.io/')
+            window.open('https://metamask.app.link/dapp/curlybear.io')
         } else {
             window.open('https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn')
         }
